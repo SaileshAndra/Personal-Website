@@ -1,0 +1,41 @@
+body {
+  background-color: #222831;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 30%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+p {
+  color: White;
+}
+
+th {
+  color: white;
+}
+
+td {
+  color: white;
+}
+a{
+  color : white;
+}
+li{
+  color : white;
+}
+label {
+  color : white;
+}
+/* ID Selectors*/
