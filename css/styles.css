@@ -4,38 +4,94 @@ body {
 
 hr {
   border-style: none;
-  border-top-style: dotted;
+  border-top-style: solid;
   border-color: grey;
   border-width: 5px;
   width: 30%;
+  margin: 2% auto;
+
 }
 
-h1 {
+h1,h3{
   color: #66BFBF;
 }
 
-h3 {
-  color: #66BFBF;
-}
-
-p {
+p,th,td,a,label {
   color: White;
 }
 
-th {
-  color: white;
+.list{
+  color : white;
+  width: 20%;
+  margin: auto;
+  text-align: center;
 }
 
-td {
-  color: white;
+.center
+{
+  text-align: center;
 }
-a{
-  color : white;
+.cent
+{
+  margin: 20px auto;
+
 }
-li{
-  color : white;
+.sailesh_img
+{
+  padding-right: 10px;
 }
-label {
-  color : white;
+.nav-link
+{
+  margin-right: 20px;
+  padding: 0 10px 0;
 }
-/* ID Selectors*/
+.navbar-nav{
+  margin-left: auto;
+}
+.navbar-brand{
+  margin-left: 20px;
+}
+.info{
+  padding-top: 10px;
+}
+#Hobbies
+{
+  margin: 100px auto;
+  padding-top: 20px;
+  text-align: center;
+  width: 40%;
+  background-color: #0dcaf0;
+  border-radius: 20px 0 20px 0;
+}
+#hoblist
+{
+  text-align: center;
+  margin:auto;
+  padding: 10px 0 20px;
+  width: 30%;
+}
+.hobby
+{
+  color: #222831;
+}
+#contact
+{
+  margin:15% 10%;
+  background-color: #0dcaf0;
+  width: 25%;
+  padding: 30px;
+  float: left;
+  border-radius: 0 7% 0 7%;
+
+}
+#contact_me
+{
+  margin-left: 15%;
+  margin-top: 5%;
+  background-color: #0d6efd;
+  width: 25%;
+  padding: 25px;
+  float: left;
+  border-radius: 10%;
+
+}
